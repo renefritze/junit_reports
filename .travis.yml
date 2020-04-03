@@ -20,9 +20,8 @@ script: tox
 deploy:
   provider: pypi
   distributions: sdist bdist_wheel
-  user: koshi
-  password:
-    secure: PLEASE_REPLACE_ME
+  user: __token__
+  password: ${PYPI_TOKEN}
   on:
     tags: true
     repo: renefritze/junit_reports
