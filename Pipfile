@@ -22,3 +22,5 @@ junit_reports = {path = ".",editable = true}
 junitparser = "*"
 tabulate = "*"
 bumpversion = "*"
+readme-renderer = "*"
+twine = "*"
