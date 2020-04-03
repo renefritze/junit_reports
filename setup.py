@@ -48,6 +48,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/renefritze/junit_reports',
-    version='2020.1.0',
+    version='2020.1.1',
     zip_safe=False,
 )
