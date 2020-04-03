@@ -1,4 +1,4 @@
-* Junit Reports version:
+* PyPi Oldest Requirements version:
 * Python version:
 * Operating System:
 
